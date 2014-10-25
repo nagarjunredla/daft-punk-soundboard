@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="selector"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/drawable-hdpi/selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="after_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/after_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="after_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/after_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="audio_main"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/audio_main.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="better_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/better_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="better_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/better_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="do_it_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/do_it_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="do_it_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/do_it_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ever_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/ever_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ever_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/ever_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="faster_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/faster_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="faster_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/faster_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="harder_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/harder_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="harder_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/harder_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="hour_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/hour_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="hour_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/hour_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="instrumental"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/instrumental.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="make_it_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/make_it_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="make_it_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/make_it_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="makes_us_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/makes_us_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="makes_us_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/makes_us_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="more_than_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/more_than_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="more_than_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/more_than_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="never_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/never_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="never_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/never_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="our_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/our_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="our_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/our_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="over_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/over_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="over_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/over_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="stronger_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/stronger_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="stronger_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/stronger_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="work_is_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/work_is_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="work_is_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/work_is_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="work_it_1"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/work_it_1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="work_it_2"
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/raw/work_it_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >DaftPunk
+                </string>
+            </file>
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/build/generated/res/rs/debug" />
+        <source path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/nagarjun/AndroidStudioProjects/DaftPunk/app/src/debug/res" />
+    </dataSet>
+
+</merger>
